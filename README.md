@@ -113,4 +113,4 @@ as a inner join 保养记录
 as b on a.设备id=b.设备id where a.设备id="1"
 ![](2.png)
 ##4、原型设计
-[axure 原型设计](http://d28pz9.axshare.com)
+[axure 原型设计    密码：wozhiyao1314..](http://d28pz9.axshare.com)
