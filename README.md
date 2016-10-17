@@ -1,6 +1,6 @@
 # 电气设备汇总
 ##1、ER图
-![](ER图.png)
+![](ER图.PNG)
 ##2、数据库
 DROP TABLE IF EXISTS `保养记录`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
